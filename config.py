@@ -11,14 +11,14 @@ Ex. if exp year is 2023, set card_year to 3.
 
 keys ={
     'product_url': 'https://www.supremenewyork.com/shop/accessories/kd9n3yxwh/t0snob67u',
-    'name':'Anthony Arjun',
-    'email': 'anthonyrarjun@gmail.com',
-    'phone': 6787071416,
-    'address': '104 Hampshire Trace',
-    'zip' : 30290,
-    'city': 'Tyrone',
-    'card': '4011 7100 1770 1668',
-    'card_month': 12,
-    'card_year': 3,         # See above documentation. It's literally 4 lines
-    'cvv': 219
+    'name':'',
+    'email': '',
+    'phone':'' ,
+    'address': '',
+    'zip' : '',
+    'city': '',
+    'card': '',
+    'card_month': '',
+    'card_year': '',         # See above documentation. It's literally 4 lines
+    'cvv': ''
 }
